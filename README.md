@@ -4,7 +4,14 @@
 
 ### Linux
 
+Add the `PICO_SDK_PATH` environment variable to your `~/.profile`.
+
 #### Visual Studio Code
+
+Install the following extensions:
+
+- `ms-vscode.cpptools-extension-pack`
+- `marus25.cortex-debug`
 
 Example `launch.json` file:
 
